@@ -6,7 +6,7 @@ function App() {
     <div className="container">
       <h1>Atividade DevOps 🚀</h1>
       <p>Ambiente: DEV / TEST / PROD</p>
-
+      <p>Ambiente dev</p>
       <button onClick={() => alert("Funcionando!")}>
         Clique aqui
       </button>
